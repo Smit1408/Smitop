@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-name-wvvvpd",
+  "private_key_id": "a1ffe962fcc8a305afc03f48ceaaee53043cf17a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzpqELS3OxagKf\nW9u98oTyZhmwjkUy18+PCvZFgayEu5Wl9aDaBJ6fXFVaiWDgTxLWMlSBDWos6UAO\nCkFHbg6EVmFL2AGXneHEJ6JYQ+L4GxIyzW8IGXibBRPXylA/MZ57F5C0x5Ik/jXb\nJr+Th4CUp9Sh56Eyiehy7HLoSKAh/SBg4VkTn43LEYLodiAaxBQ+z2b5bwLBiG9i\n+AtroaPJ88YbhWyTrklxvdHryacrYGEyEB0TTzw141Vw6XMvArxW60ok1jJW+Sl8\npP2DXJPVmBDkNS0RgC17Tb8LUIyAY8qwCxeEGGCcpiAQwXJXKXtuO5BMtmsR9QP3\nQopkQh3BAgMBAAECggEAAwcPxYxtId4yds4ACLIeNOV1CTBnHLSVz6xaptSI+DxO\n8ProFeeENrViLfxE5efYPnRO/7UmowTP7MKmC6yYbZkU8v+8FGKDjRwxwn77o6S1\nZnY3SOewvFxSM6Gx/zQkZpC4wl6vBR0EgmXTboKW/25aBUvdf+ACixIGfFkZu4Pg\nxGN8F1MRwK2gOyriadrtmY5cvsV8e3672AFRN97XLOx0f4U1O+Cuj0I7JdaRgbhd\nBnFkujteXSziAEzz6FuW6sRXrfLiNnUTPxebIlU4SZ5n1ovHXiqJ8oXWh/RrewLm\nwICDupTskY2J7zD/UrnF5eOrQZeVbQWOpxjrR7eEYQKBgQDqvhvKjIzbSnZWRDQi\nJkf6xQ8/JWd1fOFLzCH2nnJZv+BHk2e5loSRJT3wp+dB8wXY9k3Hl1My8czjKRQF\nLKxd3Vt+VNoCfx3xBJa/M3EAgpAWZy0gcoOFiDEKkhKnNHHHruK25fbTZYNv1Gir\n2w5NBsD26VohB3vNVB3DegyqoQKBgQDD610XYEbld4AgjpaIEpwyoMO6p7n9WvhY\nRbXN1OKdjv8mxw5VzGnQ4cKTgbxJwlM/GWiUMlzxnvLKSaQGjbL7vuZNAkZzhJuG\nxhI7kusbEKNDXCfuu8O0YvgvrfK7gvMLYOGhGNN8FUM+Jq0ZNaSNABRpxKG2S+2J\nYL3+dhK/IQKBgQDnt0lPo3XXcaVmemTL4OXkkGkAeDesLd1nKNXNz5IpLdKCVOtq\nsz2g2RZPXC5XV0FKbbdRcfraqv0Irx/oC7UJ4tvR1IhvNnOj2lfD3U+KpVb+BlLx\nWJijU1C1koN/MbGu3t9Ek7QV8HrSBOZd3ho7xpLsKGSjffOjN4k50Fx4gQKBgCWw\nHg1EIP89WLFqnHx6j/+RO3WplDavjDx21H1O6XUDsAOGoTRSCTz8YNC9UTojHp5x\nxdNUSNrWB8BwIBR+p6KT23uO53yLUtu/OHyrS3y+W5m2nZvoFMKbk0CgxqPZkeVr\ncpvpya0B7hiDmiLSVeAl1sdt4unNe1lE+ed8USjhAoGAPwu7qD5GqMeg7avklH82\nKyJJWx9ku7+PUw61iHR28mweArYZEQWnFfIUxS1a7pdw/UZSxcT240H2P9BjglEU\nLfUlSSIIU02L+vnE6AA8Mf0Ph17j2YoQCu73EZ0R2WlSfPTkVWgKcMIcv1RdvJVw\nHxUj2KFv5A3HP0teDbnFiO4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialdoflow-api-python@agent-name-wvvvpd.iam.gserviceaccount.com",
+  "client_id": "113592690741056598745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialdoflow-api-python%40agent-name-wvvvpd.iam.gserviceaccount.com"
+}
